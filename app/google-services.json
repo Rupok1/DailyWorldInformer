@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002108475034",
+    "project_id": "daily-world-informer",
+    "storage_bucket": "daily-world-informer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002108475034:android:4cf63606f40a7b259b7123",
+        "android_client_info": {
+          "package_name": "com.example.dailyworldinformer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002108475034-7rfpsh3c9u26ptccm7rannvbgugil0sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADRRdfd3GzipF6wcDSi1q7_FX2xtrBfyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002108475034-7rfpsh3c9u26ptccm7rannvbgugil0sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

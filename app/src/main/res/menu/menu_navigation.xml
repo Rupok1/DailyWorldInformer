@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/favourite"
+        android:title="Favourite"
+        android:icon="@drawable/ic_baseline_favorite_24"/>
+    <item android:id="@+id/watchLater"
+        android:title="Watch Later"
+        android:icon="@drawable/ic_baseline_watch_later_24"/>
+    <item android:id="@+id/logOut"
+        android:title="log Out"
+        android:icon="@drawable/ic_baseline_logout_24"/>
+
+
+</menu>
